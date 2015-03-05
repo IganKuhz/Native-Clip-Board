@@ -5,22 +5,55 @@
 
     
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Selector de Color</string>
-    <string name="press_color_to_apply">Presione el Color para aplicarlo</string>    
+    <string name="dialog_color_picker">Selector de color</string>
+    <string name="press_color_to_apply">Presione el color para aplicarlo</string>    
     
     <!-- Preferences -->
-    <string name="bgcolor">Color de Fondo</string>
-    <string name="clpcolor">Color del Sujetapapeles</string>
+    <string name="bgcolor">Color de fondo</string>
+    <string name="clpcolor">Color del portapapeles</string>
     <string name="clpcolor_summary">Del fondo del texto</string>
-    <string name="txtcolor">Color del Texto</string>
+    <string name="pinnedcolor">Color del portapapeles fijado</string>
+    <string name="txtcolor">Color del texto</string>
     <string name="history_summary">Escoje el limite de copias que se almacenarán en el historial</string>
     <string name="history_title">Tamaño del Historial</string>
     <string name="txtsize">Tamaño del Texto</string>
+    <string name="uisize">Tamaño del portapapeles</string>
+
     <string name="test">Probar</string>
+    <string name="blacklist">Lista negra</string>
+    <string name="blacklist_help">Escoje que aplicaciones no deberan ser copiadas desde (ex. Adminitradores de contraseñas).</string>
+    <string name="add">Agregar</string>
+    <string name="unknown">Desconocido</string>
+    <string name="help">Ayuda</string>
+    <string name="xda">Tema de XDA</string>
+    <string name="category_theme">Tema</string>
+    <string name="category_sizes">Tamaños</string>
+    <string name="category_advanced">Avanzado</string>
+    <string name="cbbutton">Agregar boton de CB</string>
+    <string name="cbbutton_summary">Agregar boton de CB al menú de selección\n*Requiere reiniciar</string>
+    <string name="singlepaste">Pegado simple</string>
+    <string name="singlepaste_summary">Cerrar el portapapeles despues de pegar\n*Requiere reiniciar</string>
+    <string name="monitorservice">Modo de compatibilidad</string>
+    <string name="monitorservice_summary">Utilice un servicio en segundo plano para monitorear texto copiado para MIUI y Samsung Roms\n*desactiva listas negras</string>
+    <string name="notification_title">Mostrar notificación</string>
+    <string name="notification_summary">Podría ser necesaria para mantener el servicio en funcionamiento (especialmente el dispositivos de poca RAM)</string>
+    <string name="sort">Tipos de portapapeles</string>
+    <string name="newfirst">Los nuevos al inicio</string>
+    <string name="pinnedfirst">Fijar al inicio</string>
+    <string name="pinnedlast">Fijar al final</string>
+    <string name="usedefault">Usar predeterminado</string>
     
      <!-- Clip Board -->
-    <string name="clear_all">Eliminar Todos</string>
-    <string name="clear_all_conf">¿Desea eliminar todo lo almacenado en el sujetapapeles?</string>
+    <string name="clear_all">Eliminar todos</string>
+    <string name="clear_all_conf">¿Eliminar todo lo almacenado en el portapapeles?</string>
+    <string name="title_hint">Establezca el titulo para el portapapeles</string>
+    <string name="clip_text_hint">Texto del portapapeles</string>
+    <string name="pin">Fijar</string>
+    <string name="unpin">Desfijar</string>
+    <string name="edit">Editar</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="shrink">Cortar</string>
     
      <!-- Toast Messages -->
     <string name="undo">Deshacer</string>
